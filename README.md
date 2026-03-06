@@ -13,10 +13,11 @@
 - Systems programming
 - Computer systems
 - Game development
+- Pixel Art 🎨
 - C/C++
 - Typescript
-- 🦀 Rust
-- I love CLI / Terminal stuff
+- Rust 🦀 
+- I love CLI / Terminal stuff. Vim + Tmux + GDB
 
 ## 🛠️ Tech Stack:
 
@@ -30,5 +31,5 @@
 ![GDB](https://img.shields.io/badge/GDB-A8192E?style=flat-square&logo=gnu&logoColor=white)
 
 
-You can contact me on [linkedin](https://www.linkedin.com/in/pierrot-mihangy-18785524b/)
-Or send me an [email](pierrotmihangy@gmail.com)
+You can contact me on [LinkedIn](https://www.linkedin.com/in/pierrot-mihangy-18785524b/)
+or send me an [email](pierrotmihangy@gmail.com)
