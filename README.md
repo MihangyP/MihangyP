@@ -1,10 +1,12 @@
 ## About me:
 
+```
 ┌─────────────────────────────────────────────────────┐
 │  Student @ 42 Antananarivo                          │
 │  🔍 Actively looking for an internship              │
 │  📍 Antananarivo, Madagascar                        │
 └─────────────────────────────────────────────────────┘
+```
 
 ## Interests:
 
