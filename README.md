@@ -15,7 +15,7 @@
 - Game development
 - C/C++
 - Typescript
-- Rust
+- 🦀 Rust
 - I love CLI / Terminal stuff
 
 ## 🛠️ Tech Stack:
