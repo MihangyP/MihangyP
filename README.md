@@ -27,4 +27,4 @@
 
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/pierrot-mihangy-18785524b/)
-or send me an [email](pierrotmihangy@gmail.com)
+or send me an [email](mailto:pierrotmihangy@gmail.com)
