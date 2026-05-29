@@ -1,17 +1,15 @@
 ## About me:
 
 - Student @ 42 Antananarivo
-- 🔍 Actively looking for an internship
 - 📍 Antananarivo, Madagascar
 
 ## Interests:
 
 - Systems programming
 - Computer systems
+- Algo & IA & Data
 - Game development
 - Web/Mobile development
-- Pixel Art 🎨
-- C/C++
 - Typescript 
 - I love CLI / Terminal stuff. Vim + Tmux + GDB
 
