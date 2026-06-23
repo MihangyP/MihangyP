@@ -2,25 +2,27 @@
 
 - Student @ 42 Antananarivo
 
+- Sofware engineer
+
 - 📍 Antananarivo, Madagascar
 
 ## Interests:
 
-- Systems programming
-  
-- DevOps (Docker, docker compose, ...)
-
-- Algo & IA & Data 
+- Automation/Development (Algorithm, AI, Data)
 
 - Security
 
-- Game development
+- DevOps (Docker, docker compose, CI/CD)
+
+- Systems/Game programming
 
 - Web/Mobile development
 
-- Typescript 
+- C/C++, Typescript, Python 🔥
 
-- I ❤️ CLI / Terminal stuff. Vim + Tmux + GDB
+- Linux Geek 🐧
+
+- I ❤️ CLI / Terminal stuff. Ghostty + Tmux + Vim
 
 ## 🛠️ Tech Stack:
 
