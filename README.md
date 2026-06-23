@@ -1,17 +1,26 @@
 ## About me:
 
 - Student @ 42 Antananarivo
+
 - 📍 Antananarivo, Madagascar
 
 ## Interests:
 
 - Systems programming
-- Computer systems
-- Algo & IA & Data
+  
+- DevOps (Docker, docker compose, ...)
+
+- Algo & IA & Data 
+
+- Security
+
 - Game development
+
 - Web/Mobile development
+
 - Typescript 
-- I love CLI / Terminal stuff. Vim + Tmux + GDB
+
+- I ❤️ CLI / Terminal stuff. Vim + Tmux + GDB
 
 ## 🛠️ Tech Stack:
 
