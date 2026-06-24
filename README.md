@@ -1,30 +1,32 @@
 ## About me:
 
-- Student @ 42 Antananarivo
+🎓 Student @ 42 Antananarivo · 💻 Software Engineer
+📍 Antananarivo, Madagascar
 
-- Sofware engineer
-
-- 📍 Antananarivo, Madagascar
+Passionate about building things that work — from low-level systems to
+automated pipelines. Currently diving deep into AI, security, and DevOps.
 
 ## Interests:
 
-- Automation/Development (Algorithm, AI, Data)
+- Automation & AI (algorithms, data, ML)
 
 - Security
 
-- DevOps (Docker, docker compose, CI/CD)
+- DevOps (Docker, Docker Compose) ⚙️
 
-- Systems/Game programming
+- Systems & Game Programming
 
 - Web/Mobile development
-
-- C/C++, Typescript, Python 🔥
 
 - Linux Geek 🐧
 
 - I ❤️ CLI / Terminal stuff. Ghostty + Tmux + Vim
 
 ## 🛠️ Tech Stack:
+
+**Languages:** C, C++, TypeScript/Javascript, Python 🔥
+**Tools:** Docker, Git, Linux, Vim/Tmux/Ghostty
+**Currently learning:** Rust, OpenGL
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004088?style=flat-square&logo=cplusplus&logoColor=white)
@@ -35,6 +37,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GDB](https://img.shields.io/badge/GDB-A8192E?style=flat-square&logo=gnu&logoColor=white)
 
+## You can contact me on:
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/pierrot-mihangy-18785524b/)
-Or send me an email: pierrotmihangy@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/pierrot-mihangy-18785524b/)
+📧 [pierrotmihangy@gmail.com](mailto:pierrotmihangy@gmail.com)
