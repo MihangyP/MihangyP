@@ -1,7 +1,7 @@
 ## About me:
 
-🎓 Student @ 42 Antananarivo · 💻 Software Engineer
-📍 Antananarivo, Madagascar
+- 🎓 Student @ 42 Antananarivo · 💻 Software Engineer
+- 📍 Antananarivo, Madagascar
 
 Passionate about building things that work — from low-level systems to
 automated pipelines. Currently diving deep into AI, security, and DevOps.
@@ -24,9 +24,9 @@ automated pipelines. Currently diving deep into AI, security, and DevOps.
 
 ## 🛠️ Tech Stack:
 
-**Languages:** C, C++, TypeScript/Javascript, Python 🔥
-**Tools:** Docker, Git, Linux, Vim/Tmux/Ghostty
-**Currently learning:** Rust, OpenGL
+- **Languages:** C, C++, TypeScript/Javascript, Python 🔥
+- **Tools:** Docker, Git, Linux, Vim/Tmux/Ghostty
+- **Currently learning:** Rust, OpenGL
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004088?style=flat-square&logo=cplusplus&logoColor=white)
@@ -39,5 +39,5 @@ automated pipelines. Currently diving deep into AI, security, and DevOps.
 
 ## You can contact me on:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pierrot-mihangy-18785524b/)
-📧 [pierrotmihangy@gmail.com](mailto:pierrotmihangy@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pierrot-mihangy-18785524b/)
+- 📧 [pierrotmihangy@gmail.com](mailto:pierrotmihangy@gmail.com)
