@@ -4,17 +4,17 @@
 - 📍 Antananarivo, Madagascar
 
 Passionate about building things that work — from low-level systems to
-automated pipelines. Currently diving deep into AI, security, and DevOps.
+automated pipelines. Currently diving deep into AI, Operating System and Gaming.
 
 ## Interests:
 
 - Automation & AI (algorithms, data, ML)
 
-- Security
+- System Programming
+
+- Game Programming
 
 - DevOps (Docker, Docker Compose) ⚙️
-
-- Systems & Game Programming
 
 - Web/Mobile development
 
