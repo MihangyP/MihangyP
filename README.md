@@ -4,7 +4,7 @@
 - 📍 Antananarivo, Madagascar
 
 Passionate about building things that work — from low-level systems to
-automated pipelines. Currently diving deep into AI, Operating System and Gaming.
+automated pipelines. Currently diving deep into AI, System & Game Programming.
 
 ## Interests:
 
