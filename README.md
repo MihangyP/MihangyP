@@ -1,8 +1,6 @@
 ## About me:
 
-I'm MIHANGY Pierrot.
-Student @ 42 Antananarivo.
-Software Engineer.
+I'm Mihangy Pierrot, a Software Engineering student at 42 Antananarivo.
 
 Mindset: "What I cannot create, I do not truly understand." 
 
