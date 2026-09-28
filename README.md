@@ -1,24 +1,20 @@
 ## About me:
 
-- 🎓 Student @ 42 Antananarivo · 💻 Software Engineer
-- 📍 Antananarivo, Madagascar
+I'm MIHANGY Pierrot.
+Student @ 42 Antananarivo.
+Software Engineer.
 
-Passionate about building things that work — from low-level systems to
-automated pipelines. Currently diving deep into AI, System & Game Programming.
+Mindset: "What I cannot create, I do not truly understand." 
 
 ## Interests:
 
-- Automation & AI (algorithms, data, ML)
+- ML; AI; Data; Algorithms
 
 - System Programming
 
 - Game Programming
 
-- DevOps (Docker, Docker Compose) ⚙️
-
-- Web/Mobile development
-
-- Linux Geek 🐧
+- Linux🐧
 
 - I ❤️ CLI / Terminal stuff. Ghostty + Tmux + Vim
 
