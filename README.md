@@ -16,10 +16,10 @@ Mindset: "What I cannot create, I do not truly understand."
 
 - I ❤️ CLI / Terminal stuff. Ghostty + Tmux + Vim
 
-## 🛠️ Tech Stack:
+## Tech Stack:
 
 - **Languages:** C, C++, TypeScript/Javascript, Python 🔥
-- **Tools:** Docker, Git, Linux, Vim/Tmux/Ghostty
+- **Tools:** Docker, Git, Linux, gdb, Vim/Tmux/Ghostty
 - **Currently learning:** Rust, OpenGL
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
